@@ -18,6 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // fetch işlemi burada  mı olmalı ? 
     // background.js
 
+
+    console.log("push notification");
+
+
     async function getCurrency(number) {
         console.log(number , "number");
         try {      
