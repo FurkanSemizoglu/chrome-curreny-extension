@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Currency Converter",
+    "version": "1.0",
+    "description": "Converts currency from USD to TL.",
+    "action": {
+      "default_icon": "exchange16.png",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "exchange16.png",
+      "24": "exchange24.png",
+      "32": "exchange32.png"
+    }
+  }
